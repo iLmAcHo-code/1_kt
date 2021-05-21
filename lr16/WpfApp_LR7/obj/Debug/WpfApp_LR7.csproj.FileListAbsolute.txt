@@ -1,0 +1,30 @@
+C:\Users\izi89\Desktop\2.1 Курс\Технологии программирования\lab7\WpfApp_LR7\WpfApp_LR7\bin\Debug\WpfApp_LR7.exe.config
+C:\Users\izi89\Desktop\2.1 Курс\Технологии программирования\lab7\WpfApp_LR7\WpfApp_LR7\bin\Debug\WpfApp_LR7.exe
+C:\Users\izi89\Desktop\2.1 Курс\Технологии программирования\lab7\WpfApp_LR7\WpfApp_LR7\bin\Debug\WpfApp_LR7.pdb
+C:\Users\izi89\Desktop\2.1 Курс\Технологии программирования\lab7\WpfApp_LR7\WpfApp_LR7\obj\Debug\WpfApp_LR7.csprojAssemblyReference.cache
+C:\Users\izi89\Desktop\2.1 Курс\Технологии программирования\lab7\WpfApp_LR7\WpfApp_LR7\obj\Debug\MainWindow.g.cs
+C:\Users\izi89\Desktop\2.1 Курс\Технологии программирования\lab7\WpfApp_LR7\WpfApp_LR7\obj\Debug\App.g.cs
+C:\Users\izi89\Desktop\2.1 Курс\Технологии программирования\lab7\WpfApp_LR7\WpfApp_LR7\obj\Debug\WpfApp_LR7_MarkupCompile.cache
+C:\Users\izi89\Desktop\2.1 Курс\Технологии программирования\lab7\WpfApp_LR7\WpfApp_LR7\obj\Debug\WpfApp_LR7_MarkupCompile.lref
+C:\Users\izi89\Desktop\2.1 Курс\Технологии программирования\lab7\WpfApp_LR7\WpfApp_LR7\obj\Debug\MainWindow.baml
+C:\Users\izi89\Desktop\2.1 Курс\Технологии программирования\lab7\WpfApp_LR7\WpfApp_LR7\obj\Debug\WpfApp_LR7.g.resources
+C:\Users\izi89\Desktop\2.1 Курс\Технологии программирования\lab7\WpfApp_LR7\WpfApp_LR7\obj\Debug\WpfApp_LR7.Properties.Resources.resources
+C:\Users\izi89\Desktop\2.1 Курс\Технологии программирования\lab7\WpfApp_LR7\WpfApp_LR7\obj\Debug\WpfApp_LR7.csproj.GenerateResource.cache
+C:\Users\izi89\Desktop\2.1 Курс\Технологии программирования\lab7\WpfApp_LR7\WpfApp_LR7\obj\Debug\WpfApp_LR7.csproj.CoreCompileInputs.cache
+C:\Users\izi89\Desktop\2.1 Курс\Технологии программирования\lab7\WpfApp_LR7\WpfApp_LR7\obj\Debug\WpfApp_LR7.exe
+C:\Users\izi89\Desktop\2.1 Курс\Технологии программирования\lab7\WpfApp_LR7\WpfApp_LR7\obj\Debug\WpfApp_LR7.pdb
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr17\WpfApp_LR7\bin\Debug\WpfApp_LR7.exe.config
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr17\WpfApp_LR7\bin\Debug\WpfApp_LR7.exe
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr17\WpfApp_LR7\bin\Debug\WpfApp_LR7.pdb
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr17\WpfApp_LR7\obj\Debug\WpfApp_LR7.csprojAssemblyReference.cache
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr17\WpfApp_LR7\obj\Debug\MainWindow.g.cs
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr17\WpfApp_LR7\obj\Debug\App.g.cs
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr17\WpfApp_LR7\obj\Debug\WpfApp_LR7_MarkupCompile.cache
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr17\WpfApp_LR7\obj\Debug\WpfApp_LR7_MarkupCompile.lref
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr17\WpfApp_LR7\obj\Debug\MainWindow.baml
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr17\WpfApp_LR7\obj\Debug\WpfApp_LR7.g.resources
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr17\WpfApp_LR7\obj\Debug\WpfApp_LR7.Properties.Resources.resources
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr17\WpfApp_LR7\obj\Debug\WpfApp_LR7.csproj.GenerateResource.cache
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr17\WpfApp_LR7\obj\Debug\WpfApp_LR7.csproj.CoreCompileInputs.cache
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr17\WpfApp_LR7\obj\Debug\WpfApp_LR7.exe
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr17\WpfApp_LR7\obj\Debug\WpfApp_LR7.pdb
